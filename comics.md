@@ -2,69 +2,7 @@
 
 The first new canon novel was [Star Wars: A New Dawn] - September 2014.
 
-## Marvel
-
-### 6 ongoing series
-
-
-
-
-
-
-
-
-### 16 Limited Series
-
-#### Star Wars: Jedi of the Republic - Mace Windu
-
-[![Star Wars: Jedi of the Republic - Mace Windu](https://images-eu.ssl-images-amazon.com/images/I/61%2BqCdUET6L.jpg)](https://www.amazon.de/Star-Wars-Jedi-Republic-Windu-ebook/dp/B0794JB831/ref=pd_sim_351_3?_encoding=UTF8&psc=1&refRID=FSCHHG7JDE7GNQVZ2G1Y)
-
-
-
-
-
-
-
-
-#### Star Wars: The Screaming Citadel
-
-[![Star Wars: The Screaming Citadel](https://images-na.ssl-images-amazon.com/images/I/617KxRPWNBL._SX323_BO1,204,203,200_.jpg)](https://www.amazon.de/Star-Wars-Screaming-Kieron-Gillen/dp/130290678X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
-
-#### Star Wars: Obi-Wan and Anakin
-
-[![Star Wars: Obi-Wan and Anakin](https://images-na.ssl-images-amazon.com/images/I/61LX1XMYZ%2BL._SX328_BO1,204,203,200_.jpg)](https://www.amazon.de/Star-Wars-Obi-Wan-Anakin/dp/078519679X/ref=pd_sim_14_51?_encoding=UTF8&psc=1&refRID=3EFH16J9DA70W4QRZVRR)
-
-#### Star Wars: Lando
-
-[![Star Wars: Lando](https://images-na.ssl-images-amazon.com/images/I/51dr9S4nDDL._SX323_BO1,204,203,200_.jpg)](https://www.amazon.de/Star-Wars-Lando-Charles-Soule/dp/0785193197/ref=pd_sim_14_18?_encoding=UTF8&psc=1&refRID=ND1D91QA5QG771VGBCZA)
-
-#### Star Wars: The Last Jedi - The Storms Of Crait
-
-[![Star Wars: The Last Jedi - The Storms Of Crait](https://images-eu.ssl-images-amazon.com/images/I/61nruQC0XwL.jpg)](https://www.amazon.de/Star-Wars-Last-Storms-Crait-ebook/dp/B075RHWQYK/ref=sr_1_20?s=books-intl-de&ie=UTF8&qid=1521677492&sr=1-20&keywords=star+wars+the+last+jedi)
-
-
-
-
-
-#### Star Wars: The Force Awakens Adaptation
-
-[![Star Wars: The Force Awakens Adaptation](https://images-eu.ssl-images-amazon.com/images/I/51sdkIXMcRL.jpg)](https://www.amazon.de/Star-Wars-Force-Awakens-Adaptation-ebook/dp/B01NBAHALZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1521677811&sr=1-22)
-
-#### Star Wars: Han Solo
-
-[![Star Wars: Han Solo](https://images-eu.ssl-images-amazon.com/images/I/51bxhDiiEvL.jpg)](https://www.amazon.de/Star-Wars-Han-Solo-ebook/dp/B01MU3DJ6L/ref=pd_sim_351_8?_encoding=UTF8&psc=1&refRID=1ZNXVYJT0YXKPMJECBY3)
-
-#### Star Wars: Darth Maul
-
-[![Star Wars: Darth Maul](https://images-eu.ssl-images-amazon.com/images/I/510bphHo-gL.jpg)](https://www.amazon.de/Star-Wars-Darth-Maul-ebook/dp/B074WH8D18/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
-
-
-
-#### Star Wars: Rogue One - Cassian & K2SO
-
-[![Star Wars: Rogue One - Cassian & K2SO](https://images-eu.ssl-images-amazon.com/images/I/51g%2BvorjcyL.jpg)](https://www.amazon.de/Star-Wars-Rogue-Cassian-Annual-ebook/dp/B0719W6BXV/ref=sr_1_1?ie=UTF8&qid=1521678109&sr=8-1&keywords=star+wars+Cassian+%26+K2SO)
-
-# Timeline
+## Timeline
 
 #### Star Wars: Darth Maul
 
@@ -167,19 +105,19 @@ Leia goes on a solo adventure to Naboo and tries to learn her heritage and her m
 
 ##### overlap:
 
-Star Wars Vol. 1: Issue 1
-Star Wars Vol. 1: Issue 2
-Star Wars Vol. 1: Issue 3
-Star Wars: Darth Vader Vol. 1: Issue 1
-Star Wars Vol. 1: Issue 4
-Star Wars: Darth Vader Vol. 1: Issue 2
-Star Wars: Darth Vader Vol. 1: Issue 3
-Star Wars: Darth Vader Vol. 1: Issue 4
-Star Wars Vol. 1: Issue 5
-Star Wars: Darth Vader Vol. 1: Issue 5
-Star Wars Vol. 1: Issue 6
-Star Wars: Darth Vader Vol. 1: Issue 6
-Star Wars Vol. 1: Issue 7 (Epilogue)
+* Star Wars Vol. 1: Issue 1
+* Star Wars Vol. 1: Issue 2
+* Star Wars Vol. 1: Issue 3
+* Star Wars: Darth Vader Vol. 1: Issue 1
+* Star Wars Vol. 1: Issue 4
+* Star Wars: Darth Vader Vol. 1: Issue 2
+* Star Wars: Darth Vader Vol. 1: Issue 3
+* Star Wars: Darth Vader Vol. 1: Issue 4
+* Star Wars Vol. 1: Issue 5
+* Star Wars: Darth Vader Vol. 1: Issue 5
+* Star Wars Vol. 1: Issue 6
+* Star Wars: Darth Vader Vol. 1: Issue 6
+* Star Wars Vol. 1: Issue 7 (Epilogue)
 
 #### Star Wars, Volume 2: Showdown on the Smuggler's Moon
 
